@@ -1,3 +1,4 @@
+import Image from "next/image";
 export default function CardBaseBat() {
     return (
       <div className="flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105">

@@ -1,3 +1,4 @@
+// import Ima
 export default function CardAd() {
     return (
       <div className="flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105">
@@ -14,7 +15,7 @@ export default function CardAd() {
               <div className="p-2 w-64">
                 <p className="p-2 m-2 text-neutral-400">
                   Lorem Ipsum is simply dummy text of the printing and typesetting
-                  industry. Lorem Ipsum has been the industry's standard dummy
+                  industry. Lorem Ipsum has been the industry standard dummy
                   text ever since the 1500s. Lorem Ipsum has been Lorem Ipsum has been 
                 </p>
               </div>
